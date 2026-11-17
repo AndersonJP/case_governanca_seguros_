@@ -1,0 +1,619 @@
+id_chamado,id_apolice,mes_referencia,categoria,status,origem,horas_resolucao
+CH00001,AP0002,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00002,AP0009,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00003,AP0016,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00004,AP0023,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00005,AP0030,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00006,AP0037,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00007,AP0004,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00008,AP0011,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00009,AP0018,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00010,AP0025,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00011,AP0032,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00012,AP0039,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00013,AP0006,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00014,AP0013,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00015,AP0020,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00016,AP0027,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00017,AP0034,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00018,AP0001,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00019,AP0008,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00020,AP0015,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00021,AP0022,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00022,AP0029,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00023,AP0036,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00024,AP0003,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00025,AP0010,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00026,AP0017,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00027,AP0024,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00028,AP0031,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00029,AP0038,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00030,AP0005,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00031,AP0012,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00032,AP0019,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00033,AP0026,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00034,AP0033,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00035,AP0040,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00036,AP0007,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00037,AP0014,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00038,AP0021,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00039,AP0028,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00040,AP0035,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00041,AP0002,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00042,AP0009,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00043,AP0016,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00044,AP0023,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00045,AP0030,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00046,AP0037,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00047,AP0004,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00048,AP0011,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00049,AP0018,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00050,AP0025,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00051,AP0032,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00052,AP0039,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00053,AP0006,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00054,AP0013,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00055,AP0020,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00056,AP0027,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00057,AP0034,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00058,AP0001,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00059,AP0008,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00060,AP0015,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00061,AP0022,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00062,AP0029,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00063,AP0036,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00064,AP0003,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00065,AP0010,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00066,AP0017,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00067,AP0024,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00068,AP0031,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00069,AP0038,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00070,AP0005,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00071,AP0012,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00072,AP0019,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00073,AP0026,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00074,AP0033,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00075,AP0040,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00076,AP0007,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00077,AP0014,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00078,AP0021,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00079,AP0028,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00080,AP0035,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00081,AP0002,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00082,AP0009,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00083,AP0016,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00084,AP0023,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00085,AP0030,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00086,AP0037,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00087,AP0004,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00088,AP0011,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00089,AP0018,2026-01,Inconsistencia de campo,Resolvido,Suporte,5
+CH00090,AP0025,2026-01,Regra divergente,Resolvido,Suporte,6
+CH00091,AP0032,2026-01,Duvida de indicador,Resolvido,Suporte,7
+CH00092,AP0039,2026-01,Falha de integracao,Resolvido,Suporte,8
+CH00093,AP0006,2026-01,Inconsistencia de campo,Resolvido,Suporte,9
+CH00094,AP0013,2026-01,Regra divergente,Resolvido,Suporte,10
+CH00095,AP0020,2026-01,Duvida de indicador,Resolvido,Suporte,11
+CH00096,AP0027,2026-01,Falha de integracao,Resolvido,Suporte,12
+CH00097,AP0034,2026-01,Inconsistencia de campo,Resolvido,Suporte,1
+CH00098,AP0001,2026-01,Regra divergente,Resolvido,Suporte,2
+CH00099,AP0008,2026-01,Duvida de indicador,Resolvido,Suporte,3
+CH00100,AP0015,2026-01,Falha de integracao,Resolvido,Suporte,4
+CH00101,AP0003,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00102,AP0010,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00103,AP0017,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00104,AP0024,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00105,AP0031,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00106,AP0038,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00107,AP0005,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00108,AP0012,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00109,AP0019,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00110,AP0026,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00111,AP0033,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00112,AP0040,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00113,AP0007,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00114,AP0014,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00115,AP0021,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00116,AP0028,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00117,AP0035,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00118,AP0002,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00119,AP0009,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00120,AP0016,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00121,AP0023,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00122,AP0030,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00123,AP0037,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00124,AP0004,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00125,AP0011,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00126,AP0018,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00127,AP0025,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00128,AP0032,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00129,AP0039,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00130,AP0006,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00131,AP0013,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00132,AP0020,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00133,AP0027,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00134,AP0034,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00135,AP0001,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00136,AP0008,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00137,AP0015,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00138,AP0022,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00139,AP0029,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00140,AP0036,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00141,AP0003,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00142,AP0010,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00143,AP0017,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00144,AP0024,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00145,AP0031,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00146,AP0038,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00147,AP0005,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00148,AP0012,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00149,AP0019,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00150,AP0026,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00151,AP0033,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00152,AP0040,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00153,AP0007,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00154,AP0014,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00155,AP0021,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00156,AP0028,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00157,AP0035,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00158,AP0002,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00159,AP0009,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00160,AP0016,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00161,AP0023,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00162,AP0030,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00163,AP0037,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00164,AP0004,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00165,AP0011,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00166,AP0018,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00167,AP0025,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00168,AP0032,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00169,AP0039,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00170,AP0006,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00171,AP0013,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00172,AP0020,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00173,AP0027,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00174,AP0034,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00175,AP0001,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00176,AP0008,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00177,AP0015,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00178,AP0022,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00179,AP0029,2026-02,Duvida de indicador,Resolvido,Suporte,7
+CH00180,AP0036,2026-02,Falha de integracao,Resolvido,Suporte,8
+CH00181,AP0003,2026-02,Inconsistencia de campo,Resolvido,Suporte,9
+CH00182,AP0010,2026-02,Regra divergente,Resolvido,Suporte,10
+CH00183,AP0017,2026-02,Duvida de indicador,Resolvido,Suporte,11
+CH00184,AP0024,2026-02,Falha de integracao,Resolvido,Suporte,12
+CH00185,AP0031,2026-02,Inconsistencia de campo,Resolvido,Suporte,1
+CH00186,AP0038,2026-02,Regra divergente,Resolvido,Suporte,2
+CH00187,AP0005,2026-02,Duvida de indicador,Resolvido,Suporte,3
+CH00188,AP0012,2026-02,Falha de integracao,Resolvido,Suporte,4
+CH00189,AP0019,2026-02,Inconsistencia de campo,Resolvido,Suporte,5
+CH00190,AP0026,2026-02,Regra divergente,Resolvido,Suporte,6
+CH00191,AP0004,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00192,AP0011,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00193,AP0018,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00194,AP0025,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00195,AP0032,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00196,AP0039,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00197,AP0006,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00198,AP0013,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00199,AP0020,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00200,AP0027,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00201,AP0034,2026-03,Duvida de indicador,Resolvido,Suporte,11
+CH00202,AP0001,2026-03,Falha de integracao,Resolvido,Suporte,12
+CH00203,AP0008,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00204,AP0015,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00205,AP0022,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00206,AP0029,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00207,AP0036,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00208,AP0003,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00209,AP0010,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00210,AP0017,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00211,AP0024,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00212,AP0031,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00213,AP0038,2026-03,Duvida de indicador,Resolvido,Suporte,11
+CH00214,AP0005,2026-03,Falha de integracao,Resolvido,Suporte,12
+CH00215,AP0012,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00216,AP0019,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00217,AP0026,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00218,AP0033,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00219,AP0040,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00220,AP0007,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00221,AP0014,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00222,AP0021,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00223,AP0028,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00224,AP0035,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00225,AP0002,2026-03,Duvida de indicador,Resolvido,Suporte,11
+CH00226,AP0009,2026-03,Falha de integracao,Resolvido,Suporte,12
+CH00227,AP0016,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00228,AP0023,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00229,AP0030,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00230,AP0037,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00231,AP0004,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00232,AP0011,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00233,AP0018,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00234,AP0025,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00235,AP0032,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00236,AP0039,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00237,AP0006,2026-03,Duvida de indicador,Resolvido,Suporte,11
+CH00238,AP0013,2026-03,Falha de integracao,Resolvido,Suporte,12
+CH00239,AP0020,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00240,AP0027,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00241,AP0034,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00242,AP0001,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00243,AP0008,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00244,AP0015,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00245,AP0022,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00246,AP0029,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00247,AP0036,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00248,AP0003,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00249,AP0010,2026-03,Duvida de indicador,Resolvido,Suporte,11
+CH00250,AP0017,2026-03,Falha de integracao,Resolvido,Suporte,12
+CH00251,AP0024,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00252,AP0031,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00253,AP0038,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00254,AP0005,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00255,AP0012,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00256,AP0019,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00257,AP0026,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00258,AP0033,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00259,AP0040,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00260,AP0007,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00261,AP0014,2026-03,Duvida de indicador,Resolvido,Suporte,11
+CH00262,AP0021,2026-03,Falha de integracao,Resolvido,Suporte,12
+CH00263,AP0028,2026-03,Inconsistencia de campo,Resolvido,Suporte,1
+CH00264,AP0035,2026-03,Regra divergente,Resolvido,Suporte,2
+CH00265,AP0002,2026-03,Duvida de indicador,Resolvido,Suporte,3
+CH00266,AP0009,2026-03,Falha de integracao,Resolvido,Suporte,4
+CH00267,AP0016,2026-03,Inconsistencia de campo,Resolvido,Suporte,5
+CH00268,AP0023,2026-03,Regra divergente,Resolvido,Suporte,6
+CH00269,AP0030,2026-03,Duvida de indicador,Resolvido,Suporte,7
+CH00270,AP0037,2026-03,Falha de integracao,Resolvido,Suporte,8
+CH00271,AP0004,2026-03,Inconsistencia de campo,Resolvido,Suporte,9
+CH00272,AP0011,2026-03,Regra divergente,Resolvido,Suporte,10
+CH00273,AP0005,2026-04,Inconsistencia de campo,Resolvido,Suporte,1
+CH00274,AP0012,2026-04,Regra divergente,Resolvido,Suporte,2
+CH00275,AP0019,2026-04,Duvida de indicador,Resolvido,Suporte,3
+CH00276,AP0026,2026-04,Falha de integracao,Resolvido,Suporte,4
+CH00277,AP0033,2026-04,Inconsistencia de campo,Resolvido,Suporte,5
+CH00278,AP0040,2026-04,Regra divergente,Resolvido,Suporte,6
+CH00279,AP0007,2026-04,Duvida de indicador,Resolvido,Suporte,7
+CH00280,AP0014,2026-04,Falha de integracao,Resolvido,Suporte,8
+CH00281,AP0021,2026-04,Inconsistencia de campo,Resolvido,Suporte,9
+CH00282,AP0028,2026-04,Regra divergente,Resolvido,Suporte,10
+CH00283,AP0035,2026-04,Duvida de indicador,Resolvido,Suporte,11
+CH00284,AP0002,2026-04,Falha de integracao,Resolvido,Suporte,12
+CH00285,AP0009,2026-04,Inconsistencia de campo,Resolvido,Suporte,1
+CH00286,AP0016,2026-04,Regra divergente,Resolvido,Suporte,2
+CH00287,AP0023,2026-04,Duvida de indicador,Resolvido,Suporte,3
+CH00288,AP0030,2026-04,Falha de integracao,Resolvido,Suporte,4
+CH00289,AP0037,2026-04,Inconsistencia de campo,Resolvido,Suporte,5
+CH00290,AP0004,2026-04,Regra divergente,Resolvido,Suporte,6
+CH00291,AP0011,2026-04,Duvida de indicador,Resolvido,Suporte,7
+CH00292,AP0018,2026-04,Falha de integracao,Resolvido,Suporte,8
+CH00293,AP0025,2026-04,Inconsistencia de campo,Resolvido,Suporte,9
+CH00294,AP0032,2026-04,Regra divergente,Resolvido,Suporte,10
+CH00295,AP0039,2026-04,Duvida de indicador,Resolvido,Suporte,11
+CH00296,AP0006,2026-04,Falha de integracao,Resolvido,Suporte,12
+CH00297,AP0013,2026-04,Inconsistencia de campo,Resolvido,Suporte,1
+CH00298,AP0020,2026-04,Regra divergente,Resolvido,Suporte,2
+CH00299,AP0027,2026-04,Duvida de indicador,Resolvido,Suporte,3
+CH00300,AP0034,2026-04,Falha de integracao,Resolvido,Suporte,4
+CH00301,AP0001,2026-04,Inconsistencia de campo,Resolvido,Suporte,5
+CH00302,AP0008,2026-04,Regra divergente,Resolvido,Suporte,6
+CH00303,AP0015,2026-04,Duvida de indicador,Resolvido,Suporte,7
+CH00304,AP0022,2026-04,Falha de integracao,Resolvido,Suporte,8
+CH00305,AP0029,2026-04,Inconsistencia de campo,Resolvido,Suporte,9
+CH00306,AP0036,2026-04,Regra divergente,Resolvido,Suporte,10
+CH00307,AP0003,2026-04,Duvida de indicador,Resolvido,Suporte,11
+CH00308,AP0010,2026-04,Falha de integracao,Resolvido,Suporte,12
+CH00309,AP0017,2026-04,Inconsistencia de campo,Resolvido,Suporte,1
+CH00310,AP0024,2026-04,Regra divergente,Resolvido,Suporte,2
+CH00311,AP0031,2026-04,Duvida de indicador,Resolvido,Suporte,3
+CH00312,AP0038,2026-04,Falha de integracao,Resolvido,Suporte,4
+CH00313,AP0005,2026-04,Inconsistencia de campo,Resolvido,Suporte,5
+CH00314,AP0012,2026-04,Regra divergente,Resolvido,Suporte,6
+CH00315,AP0019,2026-04,Duvida de indicador,Resolvido,Suporte,7
+CH00316,AP0026,2026-04,Falha de integracao,Resolvido,Suporte,8
+CH00317,AP0033,2026-04,Inconsistencia de campo,Resolvido,Suporte,9
+CH00318,AP0040,2026-04,Regra divergente,Resolvido,Suporte,10
+CH00319,AP0007,2026-04,Duvida de indicador,Resolvido,Suporte,11
+CH00320,AP0014,2026-04,Falha de integracao,Resolvido,Suporte,12
+CH00321,AP0021,2026-04,Inconsistencia de campo,Resolvido,Suporte,1
+CH00322,AP0028,2026-04,Regra divergente,Resolvido,Suporte,2
+CH00323,AP0035,2026-04,Duvida de indicador,Resolvido,Suporte,3
+CH00324,AP0002,2026-04,Falha de integracao,Resolvido,Suporte,4
+CH00325,AP0009,2026-04,Inconsistencia de campo,Resolvido,Suporte,5
+CH00326,AP0016,2026-04,Regra divergente,Resolvido,Suporte,6
+CH00327,AP0023,2026-04,Duvida de indicador,Resolvido,Suporte,7
+CH00328,AP0030,2026-04,Falha de integracao,Resolvido,Suporte,8
+CH00329,AP0037,2026-04,Inconsistencia de campo,Resolvido,Suporte,9
+CH00330,AP0004,2026-04,Regra divergente,Resolvido,Suporte,10
+CH00331,AP0011,2026-04,Duvida de indicador,Resolvido,Suporte,11
+CH00332,AP0018,2026-04,Falha de integracao,Resolvido,Suporte,12
+CH00333,AP0025,2026-04,Inconsistencia de campo,Resolvido,Suporte,1
+CH00334,AP0032,2026-04,Regra divergente,Resolvido,Suporte,2
+CH00335,AP0039,2026-04,Duvida de indicador,Resolvido,Suporte,3
+CH00336,AP0006,2026-04,Falha de integracao,Resolvido,Suporte,4
+CH00337,AP0013,2026-04,Inconsistencia de campo,Resolvido,Suporte,5
+CH00338,AP0020,2026-04,Regra divergente,Resolvido,Suporte,6
+CH00339,AP0027,2026-04,Duvida de indicador,Resolvido,Suporte,7
+CH00340,AP0034,2026-04,Falha de integracao,Resolvido,Suporte,8
+CH00341,AP0001,2026-04,Inconsistencia de campo,Resolvido,Suporte,9
+CH00342,AP0008,2026-04,Regra divergente,Resolvido,Suporte,10
+CH00343,AP0006,2026-05,Inconsistencia de campo,Resolvido,Suporte,1
+CH00344,AP0013,2026-05,Regra divergente,Resolvido,Suporte,2
+CH00345,AP0020,2026-05,Duvida de indicador,Resolvido,Suporte,3
+CH00346,AP0027,2026-05,Falha de integracao,Resolvido,Suporte,4
+CH00347,AP0034,2026-05,Inconsistencia de campo,Resolvido,Suporte,5
+CH00348,AP0001,2026-05,Regra divergente,Resolvido,Suporte,6
+CH00349,AP0008,2026-05,Duvida de indicador,Resolvido,Suporte,7
+CH00350,AP0015,2026-05,Falha de integracao,Resolvido,Suporte,8
+CH00351,AP0022,2026-05,Inconsistencia de campo,Resolvido,Suporte,9
+CH00352,AP0029,2026-05,Regra divergente,Resolvido,Suporte,10
+CH00353,AP0036,2026-05,Duvida de indicador,Resolvido,Suporte,11
+CH00354,AP0003,2026-05,Falha de integracao,Resolvido,Suporte,12
+CH00355,AP0010,2026-05,Inconsistencia de campo,Resolvido,Suporte,1
+CH00356,AP0017,2026-05,Regra divergente,Resolvido,Suporte,2
+CH00357,AP0024,2026-05,Duvida de indicador,Resolvido,Suporte,3
+CH00358,AP0031,2026-05,Falha de integracao,Resolvido,Suporte,4
+CH00359,AP0038,2026-05,Inconsistencia de campo,Resolvido,Suporte,5
+CH00360,AP0005,2026-05,Regra divergente,Resolvido,Suporte,6
+CH00361,AP0012,2026-05,Duvida de indicador,Resolvido,Suporte,7
+CH00362,AP0019,2026-05,Falha de integracao,Resolvido,Suporte,8
+CH00363,AP0026,2026-05,Inconsistencia de campo,Resolvido,Suporte,9
+CH00364,AP0033,2026-05,Regra divergente,Resolvido,Suporte,10
+CH00365,AP0040,2026-05,Duvida de indicador,Resolvido,Suporte,11
+CH00366,AP0007,2026-05,Falha de integracao,Resolvido,Suporte,12
+CH00367,AP0014,2026-05,Inconsistencia de campo,Resolvido,Suporte,1
+CH00368,AP0021,2026-05,Regra divergente,Resolvido,Suporte,2
+CH00369,AP0028,2026-05,Duvida de indicador,Resolvido,Suporte,3
+CH00370,AP0035,2026-05,Falha de integracao,Resolvido,Suporte,4
+CH00371,AP0002,2026-05,Inconsistencia de campo,Resolvido,Suporte,5
+CH00372,AP0009,2026-05,Regra divergente,Resolvido,Suporte,6
+CH00373,AP0016,2026-05,Duvida de indicador,Resolvido,Suporte,7
+CH00374,AP0023,2026-05,Falha de integracao,Resolvido,Suporte,8
+CH00375,AP0030,2026-05,Inconsistencia de campo,Resolvido,Suporte,9
+CH00376,AP0037,2026-05,Regra divergente,Resolvido,Suporte,10
+CH00377,AP0004,2026-05,Duvida de indicador,Resolvido,Suporte,11
+CH00378,AP0011,2026-05,Falha de integracao,Resolvido,Suporte,12
+CH00379,AP0018,2026-05,Inconsistencia de campo,Resolvido,Suporte,1
+CH00380,AP0025,2026-05,Regra divergente,Resolvido,Suporte,2
+CH00381,AP0032,2026-05,Duvida de indicador,Resolvido,Suporte,3
+CH00382,AP0039,2026-05,Falha de integracao,Resolvido,Suporte,4
+CH00383,AP0006,2026-05,Inconsistencia de campo,Resolvido,Suporte,5
+CH00384,AP0013,2026-05,Regra divergente,Resolvido,Suporte,6
+CH00385,AP0020,2026-05,Duvida de indicador,Resolvido,Suporte,7
+CH00386,AP0027,2026-05,Falha de integracao,Resolvido,Suporte,8
+CH00387,AP0034,2026-05,Inconsistencia de campo,Resolvido,Suporte,9
+CH00388,AP0001,2026-05,Regra divergente,Resolvido,Suporte,10
+CH00389,AP0008,2026-05,Duvida de indicador,Resolvido,Suporte,11
+CH00390,AP0015,2026-05,Falha de integracao,Resolvido,Suporte,12
+CH00391,AP0022,2026-05,Inconsistencia de campo,Resolvido,Suporte,1
+CH00392,AP0029,2026-05,Regra divergente,Resolvido,Suporte,2
+CH00393,AP0036,2026-05,Duvida de indicador,Resolvido,Suporte,3
+CH00394,AP0003,2026-05,Falha de integracao,Resolvido,Suporte,4
+CH00395,AP0010,2026-05,Inconsistencia de campo,Resolvido,Suporte,5
+CH00396,AP0017,2026-05,Regra divergente,Resolvido,Suporte,6
+CH00397,AP0024,2026-05,Duvida de indicador,Resolvido,Suporte,7
+CH00398,AP0031,2026-05,Falha de integracao,Resolvido,Suporte,8
+CH00399,AP0038,2026-05,Inconsistencia de campo,Resolvido,Suporte,9
+CH00400,AP0005,2026-05,Regra divergente,Resolvido,Suporte,10
+CH00401,AP0012,2026-05,Duvida de indicador,Resolvido,Suporte,11
+CH00402,AP0019,2026-05,Falha de integracao,Resolvido,Suporte,12
+CH00403,AP0007,2026-06,Inconsistencia de campo,Resolvido,Suporte,1
+CH00404,AP0014,2026-06,Regra divergente,Resolvido,Suporte,2
+CH00405,AP0021,2026-06,Duvida de indicador,Resolvido,Suporte,3
+CH00406,AP0028,2026-06,Falha de integracao,Resolvido,Suporte,4
+CH00407,AP0035,2026-06,Inconsistencia de campo,Resolvido,Suporte,5
+CH00408,AP0002,2026-06,Regra divergente,Resolvido,Suporte,6
+CH00409,AP0009,2026-06,Duvida de indicador,Resolvido,Suporte,7
+CH00410,AP0016,2026-06,Falha de integracao,Resolvido,Suporte,8
+CH00411,AP0023,2026-06,Inconsistencia de campo,Resolvido,Suporte,9
+CH00412,AP0030,2026-06,Regra divergente,Resolvido,Suporte,10
+CH00413,AP0037,2026-06,Duvida de indicador,Resolvido,Suporte,11
+CH00414,AP0004,2026-06,Falha de integracao,Resolvido,Suporte,12
+CH00415,AP0011,2026-06,Inconsistencia de campo,Resolvido,Suporte,1
+CH00416,AP0018,2026-06,Regra divergente,Resolvido,Suporte,2
+CH00417,AP0025,2026-06,Duvida de indicador,Resolvido,Suporte,3
+CH00418,AP0032,2026-06,Falha de integracao,Resolvido,Suporte,4
+CH00419,AP0039,2026-06,Inconsistencia de campo,Resolvido,Suporte,5
+CH00420,AP0006,2026-06,Regra divergente,Resolvido,Suporte,6
+CH00421,AP0013,2026-06,Duvida de indicador,Resolvido,Suporte,7
+CH00422,AP0020,2026-06,Falha de integracao,Resolvido,Suporte,8
+CH00423,AP0027,2026-06,Inconsistencia de campo,Resolvido,Suporte,9
+CH00424,AP0034,2026-06,Regra divergente,Resolvido,Suporte,10
+CH00425,AP0001,2026-06,Duvida de indicador,Resolvido,Suporte,11
+CH00426,AP0008,2026-06,Falha de integracao,Resolvido,Suporte,12
+CH00427,AP0015,2026-06,Inconsistencia de campo,Resolvido,Suporte,1
+CH00428,AP0022,2026-06,Regra divergente,Resolvido,Suporte,2
+CH00429,AP0029,2026-06,Duvida de indicador,Resolvido,Suporte,3
+CH00430,AP0036,2026-06,Falha de integracao,Resolvido,Suporte,4
+CH00431,AP0003,2026-06,Inconsistencia de campo,Resolvido,Suporte,5
+CH00432,AP0010,2026-06,Regra divergente,Resolvido,Suporte,6
+CH00433,AP0017,2026-06,Duvida de indicador,Resolvido,Suporte,7
+CH00434,AP0024,2026-06,Falha de integracao,Resolvido,Suporte,8
+CH00435,AP0031,2026-06,Inconsistencia de campo,Resolvido,Suporte,9
+CH00436,AP0038,2026-06,Regra divergente,Resolvido,Suporte,10
+CH00437,AP0005,2026-06,Duvida de indicador,Resolvido,Suporte,11
+CH00438,AP0012,2026-06,Falha de integracao,Resolvido,Suporte,12
+CH00439,AP0019,2026-06,Inconsistencia de campo,Resolvido,Suporte,1
+CH00440,AP0026,2026-06,Regra divergente,Resolvido,Suporte,2
+CH00441,AP0033,2026-06,Duvida de indicador,Resolvido,Suporte,3
+CH00442,AP0040,2026-06,Falha de integracao,Resolvido,Suporte,4
+CH00443,AP0007,2026-06,Inconsistencia de campo,Resolvido,Suporte,5
+CH00444,AP0014,2026-06,Regra divergente,Resolvido,Suporte,6
+CH00445,AP0021,2026-06,Duvida de indicador,Resolvido,Suporte,7
+CH00446,AP0028,2026-06,Falha de integracao,Resolvido,Suporte,8
+CH00447,AP0035,2026-06,Inconsistencia de campo,Resolvido,Suporte,9
+CH00448,AP0002,2026-06,Regra divergente,Resolvido,Suporte,10
+CH00449,AP0009,2026-06,Duvida de indicador,Resolvido,Suporte,11
+CH00450,AP0016,2026-06,Falha de integracao,Resolvido,Suporte,12
+CH00451,AP0023,2026-06,Inconsistencia de campo,Resolvido,Suporte,1
+CH00452,AP0008,2026-07,Inconsistencia de campo,Resolvido,Suporte,1
+CH00453,AP0015,2026-07,Regra divergente,Resolvido,Suporte,2
+CH00454,AP0022,2026-07,Duvida de indicador,Resolvido,Suporte,3
+CH00455,AP0029,2026-07,Falha de integracao,Resolvido,Suporte,4
+CH00456,AP0036,2026-07,Inconsistencia de campo,Resolvido,Suporte,5
+CH00457,AP0003,2026-07,Regra divergente,Resolvido,Suporte,6
+CH00458,AP0010,2026-07,Duvida de indicador,Resolvido,Suporte,7
+CH00459,AP0017,2026-07,Falha de integracao,Resolvido,Suporte,8
+CH00460,AP0024,2026-07,Inconsistencia de campo,Resolvido,Suporte,9
+CH00461,AP0031,2026-07,Regra divergente,Resolvido,Suporte,10
+CH00462,AP0038,2026-07,Duvida de indicador,Resolvido,Suporte,11
+CH00463,AP0005,2026-07,Falha de integracao,Resolvido,Suporte,12
+CH00464,AP0012,2026-07,Inconsistencia de campo,Resolvido,Suporte,1
+CH00465,AP0019,2026-07,Regra divergente,Resolvido,Suporte,2
+CH00466,AP0026,2026-07,Duvida de indicador,Resolvido,Suporte,3
+CH00467,AP0033,2026-07,Falha de integracao,Resolvido,Suporte,4
+CH00468,AP0040,2026-07,Inconsistencia de campo,Resolvido,Suporte,5
+CH00469,AP0007,2026-07,Regra divergente,Resolvido,Suporte,6
+CH00470,AP0014,2026-07,Duvida de indicador,Resolvido,Suporte,7
+CH00471,AP0021,2026-07,Falha de integracao,Resolvido,Suporte,8
+CH00472,AP0028,2026-07,Inconsistencia de campo,Resolvido,Suporte,9
+CH00473,AP0035,2026-07,Regra divergente,Resolvido,Suporte,10
+CH00474,AP0002,2026-07,Duvida de indicador,Resolvido,Suporte,11
+CH00475,AP0009,2026-07,Falha de integracao,Resolvido,Suporte,12
+CH00476,AP0016,2026-07,Inconsistencia de campo,Resolvido,Suporte,1
+CH00477,AP0023,2026-07,Regra divergente,Resolvido,Suporte,2
+CH00478,AP0030,2026-07,Duvida de indicador,Resolvido,Suporte,3
+CH00479,AP0037,2026-07,Falha de integracao,Resolvido,Suporte,4
+CH00480,AP0004,2026-07,Inconsistencia de campo,Resolvido,Suporte,5
+CH00481,AP0011,2026-07,Regra divergente,Resolvido,Suporte,6
+CH00482,AP0018,2026-07,Duvida de indicador,Resolvido,Suporte,7
+CH00483,AP0025,2026-07,Falha de integracao,Resolvido,Suporte,8
+CH00484,AP0032,2026-07,Inconsistencia de campo,Resolvido,Suporte,9
+CH00485,AP0039,2026-07,Regra divergente,Resolvido,Suporte,10
+CH00486,AP0006,2026-07,Duvida de indicador,Resolvido,Suporte,11
+CH00487,AP0013,2026-07,Falha de integracao,Resolvido,Suporte,12
+CH00488,AP0020,2026-07,Inconsistencia de campo,Resolvido,Suporte,1
+CH00489,AP0027,2026-07,Regra divergente,Resolvido,Suporte,2
+CH00490,AP0034,2026-07,Duvida de indicador,Resolvido,Suporte,3
+CH00491,AP0001,2026-07,Falha de integracao,Resolvido,Suporte,4
+CH00492,AP0008,2026-07,Inconsistencia de campo,Resolvido,Suporte,5
+CH00493,AP0015,2026-07,Regra divergente,Resolvido,Suporte,6
+CH00494,AP0009,2026-08,Inconsistencia de campo,Resolvido,Suporte,1
+CH00495,AP0016,2026-08,Regra divergente,Resolvido,Suporte,2
+CH00496,AP0023,2026-08,Duvida de indicador,Resolvido,Suporte,3
+CH00497,AP0030,2026-08,Falha de integracao,Resolvido,Suporte,4
+CH00498,AP0037,2026-08,Inconsistencia de campo,Resolvido,Suporte,5
+CH00499,AP0004,2026-08,Regra divergente,Resolvido,Suporte,6
+CH00500,AP0011,2026-08,Duvida de indicador,Resolvido,Suporte,7
+CH00501,AP0018,2026-08,Falha de integracao,Resolvido,Suporte,8
+CH00502,AP0025,2026-08,Inconsistencia de campo,Resolvido,Suporte,9
+CH00503,AP0032,2026-08,Regra divergente,Resolvido,Suporte,10
+CH00504,AP0039,2026-08,Duvida de indicador,Resolvido,Suporte,11
+CH00505,AP0006,2026-08,Falha de integracao,Resolvido,Suporte,12
+CH00506,AP0013,2026-08,Inconsistencia de campo,Resolvido,Suporte,1
+CH00507,AP0020,2026-08,Regra divergente,Resolvido,Suporte,2
+CH00508,AP0027,2026-08,Duvida de indicador,Resolvido,Suporte,3
+CH00509,AP0034,2026-08,Falha de integracao,Resolvido,Suporte,4
+CH00510,AP0001,2026-08,Inconsistencia de campo,Resolvido,Suporte,5
+CH00511,AP0008,2026-08,Regra divergente,Resolvido,Suporte,6
+CH00512,AP0015,2026-08,Duvida de indicador,Resolvido,Suporte,7
+CH00513,AP0022,2026-08,Falha de integracao,Resolvido,Suporte,8
+CH00514,AP0029,2026-08,Inconsistencia de campo,Resolvido,Suporte,9
+CH00515,AP0036,2026-08,Regra divergente,Resolvido,Suporte,10
+CH00516,AP0003,2026-08,Duvida de indicador,Resolvido,Suporte,11
+CH00517,AP0010,2026-08,Falha de integracao,Resolvido,Suporte,12
+CH00518,AP0017,2026-08,Inconsistencia de campo,Resolvido,Suporte,1
+CH00519,AP0024,2026-08,Regra divergente,Resolvido,Suporte,2
+CH00520,AP0031,2026-08,Duvida de indicador,Resolvido,Suporte,3
+CH00521,AP0038,2026-08,Falha de integracao,Resolvido,Suporte,4
+CH00522,AP0005,2026-08,Inconsistencia de campo,Resolvido,Suporte,5
+CH00523,AP0012,2026-08,Regra divergente,Resolvido,Suporte,6
+CH00524,AP0019,2026-08,Duvida de indicador,Resolvido,Suporte,7
+CH00525,AP0026,2026-08,Falha de integracao,Resolvido,Suporte,8
+CH00526,AP0033,2026-08,Inconsistencia de campo,Resolvido,Suporte,9
+CH00527,AP0040,2026-08,Regra divergente,Resolvido,Suporte,10
+CH00528,AP0010,2026-09,Inconsistencia de campo,Resolvido,Suporte,1
+CH00529,AP0017,2026-09,Regra divergente,Resolvido,Suporte,2
+CH00530,AP0024,2026-09,Duvida de indicador,Resolvido,Suporte,3
+CH00531,AP0031,2026-09,Falha de integracao,Resolvido,Suporte,4
+CH00532,AP0038,2026-09,Inconsistencia de campo,Resolvido,Suporte,5
+CH00533,AP0005,2026-09,Regra divergente,Resolvido,Suporte,6
+CH00534,AP0012,2026-09,Duvida de indicador,Resolvido,Suporte,7
+CH00535,AP0019,2026-09,Falha de integracao,Resolvido,Suporte,8
+CH00536,AP0026,2026-09,Inconsistencia de campo,Resolvido,Suporte,9
+CH00537,AP0033,2026-09,Regra divergente,Resolvido,Suporte,10
+CH00538,AP0040,2026-09,Duvida de indicador,Resolvido,Suporte,11
+CH00539,AP0007,2026-09,Falha de integracao,Resolvido,Suporte,12
+CH00540,AP0014,2026-09,Inconsistencia de campo,Resolvido,Suporte,1
+CH00541,AP0021,2026-09,Regra divergente,Resolvido,Suporte,2
+CH00542,AP0028,2026-09,Duvida de indicador,Resolvido,Suporte,3
+CH00543,AP0035,2026-09,Falha de integracao,Resolvido,Suporte,4
+CH00544,AP0002,2026-09,Inconsistencia de campo,Resolvido,Suporte,5
+CH00545,AP0009,2026-09,Regra divergente,Resolvido,Suporte,6
+CH00546,AP0016,2026-09,Duvida de indicador,Resolvido,Suporte,7
+CH00547,AP0023,2026-09,Falha de integracao,Resolvido,Suporte,8
+CH00548,AP0030,2026-09,Inconsistencia de campo,Resolvido,Suporte,9
+CH00549,AP0037,2026-09,Regra divergente,Resolvido,Suporte,10
+CH00550,AP0004,2026-09,Duvida de indicador,Resolvido,Suporte,11
+CH00551,AP0011,2026-09,Falha de integracao,Resolvido,Suporte,12
+CH00552,AP0018,2026-09,Inconsistencia de campo,Resolvido,Suporte,1
+CH00553,AP0025,2026-09,Regra divergente,Resolvido,Suporte,2
+CH00554,AP0032,2026-09,Duvida de indicador,Resolvido,Suporte,3
+CH00555,AP0039,2026-09,Falha de integracao,Resolvido,Suporte,4
+CH00556,AP0011,2026-10,Inconsistencia de campo,Resolvido,Suporte,1
+CH00557,AP0018,2026-10,Regra divergente,Resolvido,Suporte,2
+CH00558,AP0025,2026-10,Duvida de indicador,Resolvido,Suporte,3
+CH00559,AP0032,2026-10,Falha de integracao,Resolvido,Suporte,4
+CH00560,AP0039,2026-10,Inconsistencia de campo,Resolvido,Suporte,5
+CH00561,AP0006,2026-10,Regra divergente,Resolvido,Suporte,6
+CH00562,AP0013,2026-10,Duvida de indicador,Resolvido,Suporte,7
+CH00563,AP0020,2026-10,Falha de integracao,Resolvido,Suporte,8
+CH00564,AP0027,2026-10,Inconsistencia de campo,Resolvido,Suporte,9
+CH00565,AP0034,2026-10,Regra divergente,Resolvido,Suporte,10
+CH00566,AP0001,2026-10,Duvida de indicador,Resolvido,Suporte,11
+CH00567,AP0008,2026-10,Falha de integracao,Resolvido,Suporte,12
+CH00568,AP0015,2026-10,Inconsistencia de campo,Resolvido,Suporte,1
+CH00569,AP0022,2026-10,Regra divergente,Resolvido,Suporte,2
+CH00570,AP0029,2026-10,Duvida de indicador,Resolvido,Suporte,3
+CH00571,AP0036,2026-10,Falha de integracao,Resolvido,Suporte,4
+CH00572,AP0003,2026-10,Inconsistencia de campo,Resolvido,Suporte,5
+CH00573,AP0010,2026-10,Regra divergente,Resolvido,Suporte,6
+CH00574,AP0017,2026-10,Duvida de indicador,Resolvido,Suporte,7
+CH00575,AP0024,2026-10,Falha de integracao,Resolvido,Suporte,8
+CH00576,AP0031,2026-10,Inconsistencia de campo,Resolvido,Suporte,9
+CH00577,AP0038,2026-10,Regra divergente,Resolvido,Suporte,10
+CH00578,AP0005,2026-10,Duvida de indicador,Resolvido,Suporte,11
+CH00579,AP0012,2026-10,Falha de integracao,Resolvido,Suporte,12
+CH00580,AP0012,2026-11,Inconsistencia de campo,Resolvido,Suporte,1
+CH00581,AP0019,2026-11,Regra divergente,Resolvido,Suporte,2
+CH00582,AP0026,2026-11,Duvida de indicador,Resolvido,Suporte,3
+CH00583,AP0033,2026-11,Falha de integracao,Resolvido,Suporte,4
+CH00584,AP0040,2026-11,Inconsistencia de campo,Resolvido,Suporte,5
+CH00585,AP0007,2026-11,Regra divergente,Resolvido,Suporte,6
+CH00586,AP0014,2026-11,Duvida de indicador,Resolvido,Suporte,7
+CH00587,AP0021,2026-11,Falha de integracao,Resolvido,Suporte,8
+CH00588,AP0028,2026-11,Inconsistencia de campo,Resolvido,Suporte,9
+CH00589,AP0035,2026-11,Regra divergente,Resolvido,Suporte,10
+CH00590,AP0002,2026-11,Duvida de indicador,Resolvido,Suporte,11
+CH00591,AP0009,2026-11,Falha de integracao,Resolvido,Suporte,12
+CH00592,AP0016,2026-11,Inconsistencia de campo,Resolvido,Suporte,1
+CH00593,AP0023,2026-11,Regra divergente,Resolvido,Suporte,2
+CH00594,AP0030,2026-11,Duvida de indicador,Resolvido,Suporte,3
+CH00595,AP0037,2026-11,Falha de integracao,Resolvido,Suporte,4
+CH00596,AP0004,2026-11,Inconsistencia de campo,Resolvido,Suporte,5
+CH00597,AP0011,2026-11,Regra divergente,Resolvido,Suporte,6
+CH00598,AP0018,2026-11,Duvida de indicador,Resolvido,Suporte,7
+CH00599,AP0025,2026-11,Falha de integracao,Resolvido,Suporte,8
+CH00600,AP0032,2026-11,Inconsistencia de campo,Resolvido,Suporte,9
+CH00601,AP0013,2026-12,Inconsistencia de campo,Resolvido,Suporte,1
+CH00602,AP0020,2026-12,Regra divergente,Resolvido,Suporte,2
+CH00603,AP0027,2026-12,Duvida de indicador,Resolvido,Suporte,3
+CH00604,AP0034,2026-12,Falha de integracao,Resolvido,Suporte,4
+CH00605,AP0001,2026-12,Inconsistencia de campo,Resolvido,Suporte,5
+CH00606,AP0008,2026-12,Regra divergente,Resolvido,Suporte,6
+CH00607,AP0015,2026-12,Duvida de indicador,Resolvido,Suporte,7
+CH00608,AP0022,2026-12,Falha de integracao,Resolvido,Suporte,8
+CH00609,AP0029,2026-12,Inconsistencia de campo,Resolvido,Suporte,9
+CH00610,AP0036,2026-12,Regra divergente,Resolvido,Suporte,10
+CH00611,AP0003,2026-12,Duvida de indicador,Resolvido,Suporte,11
+CH00612,AP0010,2026-12,Falha de integracao,Resolvido,Suporte,12
+CH00613,AP0017,2026-12,Inconsistencia de campo,Resolvido,Suporte,1
+CH00614,AP0024,2026-12,Regra divergente,Resolvido,Suporte,2
+CH00615,AP0031,2026-12,Duvida de indicador,Resolvido,Suporte,3
+CH00616,AP0038,2026-12,Falha de integracao,Resolvido,Suporte,4
+CH00617,AP0005,2026-12,Inconsistencia de campo,Resolvido,Suporte,5
+CH00618,AP0012,2026-12,Regra divergente,Resolvido,Suporte,6

@@ -1,0 +1,17 @@
+id_sinistro,id_apolice,data_aviso,tipo,status
+SN0001,AP0003,2026-02-02,Dano,Aberto
+SN0002,AP0005,2026-03-03,Assistencia,Aberto
+SN0003,AP0007,2026-04-04,Dano,Aberto
+SN0004,AP0009,2026-05-05,Assistencia,Concluido
+SN0005,AP0011,2026-06-06,Dano,Aberto
+SN0006,AP0013,2026-07-07,Assistencia,Aberto
+SN0007,AP0015,2026-08-08,Dano,Aberto
+SN0008,AP0017,2026-09-09,Assistencia,Concluido
+SN0009,AP0019,2026-10-10,Dano,Aberto
+SN0010,AP0021,2026-11-11,Assistencia,Aberto
+SN0011,AP0023,2026-12-12,Dano,Aberto
+SN0012,AP0025,2026-01-13,Assistencia,Concluido
+SN0013,AP0027,2026-02-14,Dano,Aberto
+SN0014,AP0029,2026-03-15,Assistencia,Aberto
+SN0015,AP0031,2026-04-16,Dano,Aberto
+SN0016,AP0033,2026-05-17,Assistencia,Concluido

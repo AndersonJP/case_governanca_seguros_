@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Governança de Dados | Case Seguros</title>
+<style>
+:root{--bg:#100d18;--panel:#1b1528;--line:#38274e;--accent:#b783f4;--txt:#f6f1fc;--mute:#aea4bb}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 90% 0%,#29163a,#100d18 55%);color:var(--txt);font:15px system-ui,-apple-system,'Segoe UI',sans-serif}
+main{max-width:1060px;margin:auto;padding:38px 20px}small,.muted{color:var(--mute)}h1{font-size:clamp(25px,4vw,40px);font-weight:400;margin:10px 0}h2{font-size:18px;font-weight:500}header p{max-width:720px;line-height:1.55;color:var(--mute)}.eyebrow{letter-spacing:.24em;color:var(--accent);font-size:11px;text-transform:uppercase}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:25px 0}.card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:20px}.num{font-size:38px;color:var(--accent);font-weight:300}.panel{margin:16px 0}.plot{height:240px;display:flex;align-items:end;gap:10px;padding:15px 0 0}.barwrap{flex:1;display:flex;flex-direction:column;align-items:center;gap:7px;min-width:0}.bar{width:100%;max-width:52px;background:linear-gradient(#c493ff,#7841b2);border-radius:5px 5px 0 0;min-height:4px}.barwrap span{font-size:11px;color:var(--mute)}.barwrap strong{font-size:11px;font-weight:400}.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:15px}.pill{border:1px solid var(--line);border-radius:20px;padding:6px 12px;color:var(--mute);font-size:12px}
+footer{color:var(--mute);font-size:12px;line-height:1.5;margin-top:26px}.mini{display:flex;flex-direction:column;gap:10px}.cat{display:flex;align-items:center;gap:12px}.cat span{min-width:160px;font-size:12px}.track{height:10px;flex:1;background:#31233f;border-radius:10px;overflow:hidden}.fill{height:100%;background:var(--accent);border-radius:10px}.grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}.tag{padding:6px 10px;background:#30203e;border-radius:8px;color:#dcc6f5;font-size:12px;display:inline-block}
+@media(max-width:650px){.kpis,.grid{grid-template-columns:1fr}.num{font-size:32px}main{padding:22px 15px}.cat span{min-width:125px}.plot{gap:4px}.barwrap span{font-size:9px}}
+</style></head><body><main>
+<header><div class="eyebrow">CASE DEMONSTRATIVO · SEGUROS · GOVERNANÇA</div>
+<h1>Dados confiáveis. Decisões melhores.</h1>
+<p>Como a padronização de conceitos, a validação SQL e a visibilidade dos indicadores podem apoiar a redução do volume de chamados de sustentação.</p>
+<div class="tag">Base 100% fictícia · resultado ilustrativo inspirado em experiência real de outro contexto</div></header>
+<section class="kpis"><div class="card"><small>Início do período</small><div class="num" id="ini"></div><small>chamados/mês</small></div>
+<div class="card"><small>Fim do período</small><div class="num" id="fim"></div><small>chamados/mês</small></div>
+<div class="card"><small>Redução no cenário</small><div class="num" id="red"></div><small>comparação Jan × Dez</small></div></section>
+<div class="grid"><section class="card panel"><h2>Chamados de sustentação por mês</h2><div class="plot" id="grafico" role="img" aria-label="Gráfico de barras com chamados mensais de janeiro a dezembro"></div></section>
+<section class="card panel"><h2>Tipos de chamados</h2><div id="cats" class="mini"></div></section></div>
+<section class="card panel"><h2>Leitura para o negócio</h2><p class="muted">Os dados do cenário mostram queda gradual de chamados entre janeiro e dezembro. A hipótese do case é que métricas visíveis, documentação consistente e revisão de regras apoiam a identificação de causas recorrentes. O gráfico não comprova causalidade.</p><p><strong>Próximo passo:</strong> priorizar categorias recorrentes, revisar sua regra no catálogo e acompanhar a tendência mensal.</p></section>
+<footer>Metodologia: contagem por mês de referência, independentemente do status. Redução = (1 − chamados do último mês ÷ chamados do primeiro mês) × 100. Dados sintéticos; não representam números da Seguros Unimed. Dashboard estático e offline.</footer>
+</main><script>
+const D={"serie": [{"mes": "2026-01", "quantidade": 100}, {"mes": "2026-02", "quantidade": 90}, {"mes": "2026-03", "quantidade": 82}, {"mes": "2026-04", "quantidade": 70}, {"mes": "2026-05", "quantidade": 60}, {"mes": "2026-06", "quantidade": 49}, {"mes": "2026-07", "quantidade": 42}, {"mes": "2026-08", "quantidade": 34}, {"mes": "2026-09", "quantidade": 28}, {"mes": "2026-10", "quantidade": 24}, {"mes": "2026-11", "quantidade": 21}, {"mes": "2026-12", "quantidade": 18}], "categorias": [{"categoria": "Inconsistencia de campo", "total": 159}, {"categoria": "Regra divergente", "total": 157}, {"categoria": "Falha de integracao", "total": 151}, {"categoria": "Duvida de indicador", "total": 151}], "reducao": 82.0};
+const meses=['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+document.querySelector('#ini').textContent=D.serie[0].quantidade;
+document.querySelector('#fim').textContent=D.serie[D.serie.length-1].quantidade;
+document.querySelector('#red').textContent='−'+D.reducao.toFixed(0)+'%';
+const max=Math.max(...D.serie.map(x=>x.quantidade));
+D.serie.forEach((x,i)=>{const box=document.createElement('div');box.className='barwrap';
+const num=document.createElement('strong');num.textContent=x.quantidade;const bar=document.createElement('div');bar.className='bar';bar.style.height=(x.quantidade/max*180)+'px';bar.title=meses[i]+': '+x.quantidade+' chamados';
+const label=document.createElement('span');label.textContent=meses[i];box.append(num,bar,label);document.querySelector('#grafico').append(box)});
+const maxcat=Math.max(...D.categorias.map(x=>x.total));
+D.categorias.forEach(x=>{const el=document.createElement('div');el.className='cat';const name=document.createElement('span');name.textContent=x.categoria;
+const track=document.createElement('div');track.className='track';const fill=document.createElement('div');fill.className='fill';fill.style.width=100*x.total/maxcat+'%';track.append(fill);
+const val=document.createElement('b');val.textContent=x.total;el.append(name,track,val);document.querySelector('#cats').append(el)});
+</script></body></html>
